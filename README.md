@@ -1,1 +1,1 @@
-ALX SE programe Shell projects
+ALX SE progeamme Shell projects
