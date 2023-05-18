@@ -1,1 +1,1 @@
-Application server project
+application server
