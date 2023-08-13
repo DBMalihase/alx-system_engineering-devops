@@ -6,7 +6,7 @@ Learning how to write an Incident Report, also referred to as a Postmortem. This
 
 - short summary (5 sentences)
 - list the duration along with start and end times (include timezone)
-- state the impact (most user requests resulted in 500 errors, at peak 100%)
+- state the impact (most user requests resulted in 301  errors)
 - close with root cause
 
 ### Timeline
